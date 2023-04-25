@@ -1,8 +1,4 @@
-# Frontend Mentor - Product preview card component
-
-![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
-
-## FrontendMentor Challenge 👋
+# FrontendMentor Challenge 👋
 
 Completed FrontendMentor challenge of product card preview component with responsive design.
 
